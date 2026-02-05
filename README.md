@@ -1,3 +1,7 @@
+Nota sobre el Repositorio: Este proyecto es de carácter privado debido a que contiene lógica de negocio propietaria y datos sensibles de una empresa real. Se presenta esta documentación y material audiovisual como evidencia de capacidad técnica y cumplimiento de hitos de desarrollo.
+
+---
+
 # 🧵 Bysso: Gestión Logística Textil
 **Digitalización y optimización de procesos para la industria de estampados y bordados.**
 
