@@ -32,7 +32,7 @@ Este proyecto representa un caso de estudio real donde evolucioné procesos manu
 *Vista principal del sistema que centraliza las métricas clave y el estado general de la operación en tiempo real.*
 
 ### 📋 Gestión de Pedidos y Producción
-![Formulario](screenshots/formulario_pedidos.png)
+![Formulario](screenshots/formulario.png)
 *Formulario dinámico diseñado para capturar especificaciones técnicas de bordado y estampado, eliminando el error humano.*
 
 ### 🧭 Navegación Estructural (Sidebar)
