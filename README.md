@@ -5,7 +5,7 @@ Nota sobre el Repositorio: Este proyecto es de carácter privado debido a que co
 # 🧵 Bysso: Gestión Logística Textil
 **Digitalización y optimización de procesos para la industria de estampados y bordados.**
 
-Este proyecto es un caso de estudio real donde transformé procesos manuales en una plataforma Fullstack robusta, escalable y actualmente operativa en producción. 
+Este proyecto representa un caso de estudio real donde evolucioné procesos manuales hacia una plataforma Fullstack de alto rendimiento. Actualmente se encuentra operativa en producción, optimizando la cadena de suministro y la gestión de pedidos mediante una arquitectura robusta, escalable y centrada en la experiencia del usuario.
 
 ---
 
@@ -26,6 +26,10 @@ Este proyecto es un caso de estudio real donde transformé procesos manuales en 
 ### 🔐 Seguridad y Autenticación
 ![Login](screenshots/login.png)
 *Implementación de seguridad JWT para el control de acceso, garantizando que la información operativa esté protegida.*
+
+### 🔐 Panel de Control (Dashboard)
+![Dashboard](screenshots/Dashboard.png)
+*Vista principal del sistema que centraliza las métricas clave y el estado general de la operación en tiempo real.*
 
 ### 📋 Gestión de Pedidos y Producción
 ![Formulario](screenshots/formulario_pedidos.png)
